@@ -18,4 +18,3 @@ Technologies Used:
 
 This project demonstrates my understanding of front-end web development, DOM manipulation, and event handling in JavaScript. 🚀
 
-Let me know if you need any modifications! 😊
